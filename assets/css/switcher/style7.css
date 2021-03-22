@@ -1,0 +1,74 @@
+#style-switcher h2 a { background: #00d8ff none repeat scroll 0 0; }
+.status-mes {
+
+    border-left: 3px solid #00d8ff;
+
+}
+/*START SCROLL TO TOP*/
+.topcontrol {background: #00d8ff none repeat scroll 0 0;}
+/*END SCROLL TO TOP*/
+
+
+/*START MENU*/
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    color: #00d8ff !important;
+    background-color: transparent;
+}
+.menu-top li a:hover { color: #00d8ff!important }
+.navbar-default.menu-shrink li a:hover { color: #00d8ff !important }
+.navbar-default .navbar-toggle .icon-bar { background-color: #00d8ff }
+/*END MENU*/
+
+
+	
+.section-title .sec_icon:after,
+.section-title .sec_icon:before ,
+.section-title .sec_icon span,
+.single_about i:hover,
+.progress-bar > span,
+.pricing-list li i
+
+ {
+	background: #00d8ff;
+}	
+
+
+.carousel-control:hover,
+.btn-home-border:hover, .btn-home-border:focus,
+.our_work_menu ul li:hover, 
+.our_work_menu ul li.active,
+.video-container a:hover,
+.social_link ul a,
+.btn-light-bg,
+.pricing-btn button
+ {
+	background: #00d8ff;
+	border-color: #00d8ff;
+}
+#contact-form .btn-contact-bg{
+	background: #00d8ff!important;
+	border-color: #00d8ff!important;
+}
+#contact-form .btn-contact-bg:hover,
+#contact-form .btn-contact-bg:focus {
+    background: #333!important;
+    border: 1px solid #333!important;
+    color: #fff;
+}
+
+.single_testimonial .avatar img,
+.contact input:focus,
+.contact textarea:focus{
+	border-color: #00d8ff;
+}
+.single_about i,
+.skill_list,
+.single_feature .feat_number,
+.single_service i,
+.testimonials_area h5,
+.home_blog_text i,
+.section-title h2 span{
+	color: #00d8ff;
+}

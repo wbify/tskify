@@ -1,0 +1,77 @@
+#style-switcher h2 a { background: #16d08e none repeat scroll 0 0 ;}
+
+.navbar-default .navbar-nav > li > a:hover, 
+.navbar-default .navbar-nav > li > a:focus, 
+.menu-top li a:hover,
+.navbar-default .navbar-nav > .current > a, 
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus,
+.section-title span,
+.single_about .about_icon,
+.counter i,
+.vid_btn i,
+.single_team h3,
+.single_testimonial .avatar::after,
+.footer a:hover, 
+.footer a:focus,
+.footer_top a:hover,
+.mainmenu #navigation .menu-item-has-children:hover>a:after,
+.mainmenu #navigation .page_item_has_children:hover>a:after,
+.mainmenu #navigation .sub-menu li:hover>a ,
+.mainmenu #navigation .children li:hover>a ,
+.about_img .play_btn,
+.home_blog_text h4 a:hover, 
+.blog_btn:hover, 
+.blog_btn:focus,
+.testimonials_area .slick-prev:before, 
+.testimonials_area .slick-next:before,
+.pricing-table h3,
+.project-info strong  {
+	color: #16d08e;
+}
+.btn-light-bg:hover,
+.btn-light-bg:focus,
+.port-social a:hover,
+.port-social a:focus{
+	background: #0ab478;
+	border-color: #0ab478;
+}
+.testimonials_area .slick-next.slick-arrow, 
+.testimonials_area .slick-prev.slick-arrow {
+	border-color: #16d08e;
+	color: #16d08e;
+
+}
+.progress-bar > span,
+.single_feature .feat_number,
+#topcontrol,
+.pricing-tab .pricing-tab-switcher,
+.single_service:hover{
+	background-color: #16d08e;
+}
+.foot-social li a:hover, 
+.foot-social li a:focus,
+.footer_single_sidebar button,
+.btn-home-border,
+.btn-light-bg,
+.about_img .play_btn i:hover,
+.about_video .vid_btn:hover,
+.social_link ul a:hover,
+.testimonials_area .slick-arrow:hover, 
+.testimonials_area .slick-arrow:focus{
+	background: #16d08e;
+	border-color: #16d08e;
+}
+.single_about:hover,
+.contact input:focus ,
+.contact textarea:focus,
+.pricing-table:hover{
+	border-color: #16d08e;
+}
+.our_work_menu ul li.active{
+	border-bottom-color: #16d08e;
+}
+.status-mes{
+	border-left: 4px solid #16d08e;
+}
